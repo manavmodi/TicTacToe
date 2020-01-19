@@ -1,7 +1,6 @@
 # Manav Modi - 2018CS10353; Param Khakhar - 2018CS10362
 # 17/01/2020
-# TicTacToe.asm -- working with arrays
-# Given two matrices, find their mean squared error
+# TicTacToe.asm 
 
 # --------------------------------------------------------------
 # Comment:
